@@ -1,0 +1,15 @@
+# IntelliJ specific stuff
+.idea/
+out/
+*.iml
+
+# Netbeans specific stuff
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Artifact metadata
+META-INF/
