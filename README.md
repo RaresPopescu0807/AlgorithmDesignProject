@@ -1,6 +1,6 @@
 # THE BUG BUSTERS
 
-A project where we worked in teams of 3 to create a chess engine.
+A project where we worked in teams of 3 to create a chess engine compatible with XBoard.
 We chose to work in Java and use OOP.
 Part of the points for this assignment where given after competing versus the engines of the other teams, around 40 or 50. We finished 4th !!!
 
